@@ -1,3 +1,6 @@
+'''This code to train GAN for MNIST is taken from:
+https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-10-Normalizing-Flows-NICE-RealNVP-GLOW
+'''
 import numpy as np
 import tensorflow as tf
 from scipy.stats import norm
